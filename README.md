@@ -169,7 +169,7 @@ I'm currently organizing my portfolio website with:
 ## 📫 Contact
 
 - Website: https://www.sicktech.com.br/
-- LinkedIn: https://www.linkedin.com/in/henrique-ribeiro-abduch-b3561323b/
+- LinkedIn: [https://www.linkedin.com/in/henrique-ribeiro-abduch-b3561323b/](https://www.linkedin.com/in/henriqueabduchdev/)
 - WhatsApp: https://wa.me/5511950526331
 
 ---
